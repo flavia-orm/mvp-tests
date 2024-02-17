@@ -1,0 +1,16 @@
+{
+  "name": "citydrive-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1",
+    "mailslurp-client": "^15.17.4"
+  }
+}
